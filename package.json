@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/matiasbeller/agregandoSass/issues"
   },
-  "homepage": "https://github.com/matiasbeller/agregandoSass#readme"
+  "homepage": "https://github.com/matiasbeller/agregandoSass#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.0",
+    "nodemon": "^2.0.15"
+  }
 }
